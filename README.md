@@ -18,3 +18,5 @@ This is my personal **138-day journey** to boost problem-solving and logical thi
 💡 Develop **sharp logical reasoning**  
 🧠 Strengthen **focus & patience**  
 🚀 Improve **problem-solving skills** through **daily Sudoku practice**  
+
+➡️ See the daily progress here: [📘 Sudoku Log](Sudoku-log.md)
